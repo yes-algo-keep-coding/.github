@@ -169,37 +169,37 @@
 	<summary><b>Click Here To See All Records</b></summary>
     <div>
         <br>
-    	<a href="./Records/TraceofLight.md" style="text-decoration: none; color: #000000; font-weight:bold;">
+    	<a href="https://github.com/yes-algo-keep-coding/algorithm/blob/main/Records/TraceofLight.md" style="text-decoration: none; color: #000000; font-weight:bold;">
             TraceofLight's Records
         </a>
     </div>
     <div>
         <br>
-    	<a href="./Records/Joripje.md" style="text-decoration: none; color: #000000; font-weight:bold;">
+    	<a href="https://github.com/yes-algo-keep-coding/algorithm/blob/main/Records/Joripje.md" style="text-decoration: none; color: #000000; font-weight:bold;">
             Joripje's Records
         </a>
     </div>
     <div>
         <br>
-    	<a href="./Records/kimsj-git.md" style="text-decoration: none; color: #000000; font-weight:bold;">
+    	<a href="https://github.com/yes-algo-keep-coding/algorithm/blob/main/Records/kimsj-git.md" style="text-decoration: none; color: #000000; font-weight:bold;">
             kimsj-git's Records
         </a>
     </div>
     <div>
         <br>
-    	<a href="./Records/mucho7.md" style="text-decoration: none; color: #000000; font-weight:bold;">
+    	<a href="https://github.com/yes-algo-keep-coding/algorithm/blob/main/Records/mucho7.md" style="text-decoration: none; color: #000000; font-weight:bold;">
             mucho7's Records
         </a>
     </div>
     <div>
         <br>
-    	<a href="./Records/seotai.md" style="text-decoration: none; color: #000000; font-weight:bold;">
+    	<a href="https://github.com/yes-algo-keep-coding/algorithm/blob/main/Records/seotai.md" style="text-decoration: none; color: #000000; font-weight:bold;">
             seotai's Records
         </a>
     </div>
     <div>
         <br>
-    	<a href="./Records/sjsjslim.md" style="text-decoration: none; color: #000000; font-weight:bold;">
+    	<a href="https://github.com/yes-algo-keep-coding/algorithm/blob/main/Records/sjsjslim.md" style="text-decoration: none; color: #000000; font-weight:bold;">
             sjsjslim's Records
         </a>
     </div>
